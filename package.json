@@ -15,7 +15,8 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "express-validator": "^7.1.0",
-    "express-validators": "^1.0.4"
+    "express-validators": "^1.0.4",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "prisma": "^5.13.0"
